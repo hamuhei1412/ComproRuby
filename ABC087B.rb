@@ -9,7 +9,7 @@ while a != A+1 do
   while b != B+1 do
     c = 0
     while c != C+1 do
-      if((a*500+b*100+c*50)==X.first)
+      if((a*500+b*100+c*50)==X)
         ans += 1
       end
       c += 1
